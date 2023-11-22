@@ -17,7 +17,7 @@
           <a
             href="register.html"
             class="inline-block border-2 border-white text-white py-2 px-4 rounded-xl uppercase mt-2 hover:text-black hover:border-black"
-            >Sign Up to List a Jobs</a
+            >Sign Up to List a Jobs Member</a
           >
         </div>
       </div>
