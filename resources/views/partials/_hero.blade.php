@@ -8,7 +8,7 @@
 
       <div class="z-10">
         <h1 class="text-6xl font-bold uppercase text-white">
-          Kode<span class="text-black">Jobs</span>
+          Kode<span class="text-black">Jobs Member</span>
         </h1>
         <p class="text-2xl text-gray-200 font-bold my-4">
           Find or post Web Developer jobs & projects
